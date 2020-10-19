@@ -1,6 +1,7 @@
-const map-like =[1, 2, 3, -9]
+const maplike =[1, 2, 3, -9]
 
-const mapToNegativize = function(){
+const mapToNegativize = function(maplike){
+  return maplike.map()
   
 }
 
