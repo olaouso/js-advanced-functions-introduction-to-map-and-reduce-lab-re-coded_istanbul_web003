@@ -1,4 +1,8 @@
-const 
+const map-like =[1, 2, 3, -9]
+
+const mapToNegativize = function(){
+  
+}
 
 
 describe('my own map-like methods', function() {
